@@ -1,0 +1,2 @@
+Git: A distributed version control system used to track and manage code changes locally with features like branching and merging.
+GitHub: A web-based platform that hosts Git repositories and enables collaboration through pull requests, issues and team management.
